@@ -5,7 +5,7 @@
 ##### First step :
 
     $ bundle install
-##### when all gems were installed then go to second step =>
+##### when all gems were installed then go to second step for run the app =>
 
     $ rackup
    ##### or
